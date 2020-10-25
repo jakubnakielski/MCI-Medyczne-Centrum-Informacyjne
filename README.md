@@ -3,7 +3,7 @@
 
 Link do pobrania: https://mci.zszarki.pl/apk/mci.apk
 
-Dane do logowania:
+**Dane do logowania:**
 
 username - Jan 
 
