@@ -1,0 +1,29 @@
+[1009/214140.829:ERROR:minidumpwritedump_with_crashpad_info.cc(452)] Failed to call MiniDumpWriteDump: There is not enough space on the disk. (0x80070070)
+[1009/214140.829:ERROR:minidumpwritedump_with_crashpad_info.cc(661)] Failed to write minidump file
+[1009/214140.829:ERROR:crash_report_exception_handler.cc(132)] TryMiniDumpWriteDumpWithCrashpadInfo failed
+[1009/214140.896:ERROR:file_io.cc(135)] WriteFile: There is not enough space on the disk. (0x70)
+[1009/214140.896:ERROR:crash_report_exception_handler.cc(142)] WriteEverything failed
+[1009/214140.896:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\PC\AppData\Local\Microsoft\Edge\User Data\Crashpad\reports\bf7ebf1b-c701-4a95-932f-0231f8120f95.dmp: The process cannot access the file because it is being used by another process. (0x20)
+[1009/220255.713:ERROR:file_io.cc(135)] WriteFile: There is not enough space on the disk. (0x70)
+[1009/220255.714:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\PC\AppData\Local\Microsoft\Edge\User Data\Crashpad\reports\3f7efbab-63a6-4b76-a618-457b3f313d90.dmp: The process cannot access the file because it is being used by another process. (0x20)
+[1009/220257.333:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1009/220257.415:ERROR:crashpad_client_win.cc(132)] crash server failed to launch
+[1009/220324.196:ERROR:file_io.cc(135)] WriteFile: There is not enough space on the disk. (0x70)
+[1009/220324.197:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\PC\AppData\Local\Microsoft\Edge\User Data\Crashpad\reports\02591a22-79e8-49c4-9e73-6dff61e50e3b.dmp: The process cannot access the file because it is being used by another process. (0x20)
+[1009/220325.864:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1011/200704.228:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[1011/200704.230:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[1011/200704.230:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[1011/210918.756:ERROR:settings.cc(430)] Settings version is not 5
+[1012/114930.857:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1012/135708.392:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1012/180959.408:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1013/165503.935:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\PC\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\02591a22-79e8-49c4-9e73-6dff61e50e3b: The system cannot find the path specified. (0x3)
+[1013/165503.937:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\PC\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\3f7efbab-63a6-4b76-a618-457b3f313d90: The system cannot find the path specified. (0x3)
+[1013/165503.938:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\PC\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\bf7ebf1b-c701-4a95-932f-0231f8120f95: The system cannot find the path specified. (0x3)
+[1013/165503.939:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\PC\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\dbe82e2b-8a26-4520-91b1-827bf148a2eb: The system cannot find the path specified. (0x3)
+[1013/165503.939:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\PC\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\f9ae7cae-a5b8-42af-87af-da582b28b149: The system cannot find the path specified. (0x3)
+[1013/165503.940:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1013/200939.231:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1017/165621.378:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1017/204455.853:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
