@@ -5,8 +5,8 @@ Link do pobrania: https://mci.zszarki.pl/apk/mci.apk
 
 **Dane do logowania:**
 
-username - Jan 
+login - Jan 
 
-password - Kowalski
+hasło - Kowalski
 
 
